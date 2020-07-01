@@ -13,6 +13,7 @@
 		84588B6C249E7E8B0019DB73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84588B6A249E7E8B0019DB73 /* Main.storyboard */; };
 		84588B6E249E7E900019DB73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84588B6D249E7E900019DB73 /* Assets.xcassets */; };
 		84588B71249E7E900019DB73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84588B6F249E7E900019DB73 /* LaunchScreen.storyboard */; };
+		84588B7924A24CB30019DB73 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84588B7824A24CB30019DB73 /* EffectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84588B6D249E7E900019DB73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84588B70249E7E900019DB73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84588B72249E7E900019DB73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84588B7824A24CB30019DB73 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				84588B66249E7E8B0019DB73 /* SceneDelegate.swift */,
 				84588B68249E7E8B0019DB73 /* ViewController.swift */,
 				84588B6A249E7E8B0019DB73 /* Main.storyboard */,
+				84588B7824A24CB30019DB73 /* EffectViewController.swift */,
 				84588B6D249E7E900019DB73 /* Assets.xcassets */,
 				84588B6F249E7E900019DB73 /* LaunchScreen.storyboard */,
 				84588B72249E7E900019DB73 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84588B7924A24CB30019DB73 /* EffectViewController.swift in Sources */,
 				84588B69249E7E8B0019DB73 /* ViewController.swift in Sources */,
 				84588B65249E7E8B0019DB73 /* AppDelegate.swift in Sources */,
 				84588B67249E7E8B0019DB73 /* SceneDelegate.swift in Sources */,
